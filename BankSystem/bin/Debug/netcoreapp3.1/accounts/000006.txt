@@ -1,0 +1,7 @@
+firstname,oliver
+surname,smith
+address,11 Parkes rd
+phone,039293923
+email,olliecalman@gmail.com
+balance,0
+Account Created on 14/09/2022 9:18:37 PM, Starting Balance: $0.00

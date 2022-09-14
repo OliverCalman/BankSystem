@@ -1,0 +1,9 @@
+firstname,Bob
+surname,McGirr
+address,88 Parks rd
+phone,4654654
+email,olliecalman@gmail.com
+balance,879
+Account Created on 14/09/2022 6:27:35 PM, Starting Balance: $0.00
+Deposit on: 14/09/2022 6:28:09 PM, Amount Deposited: $900, Current Balance: $900
+Withdrawal on: 14/09/2022 6:28:16 PM, Amount Withdrawn: $21, Current Balance: $879

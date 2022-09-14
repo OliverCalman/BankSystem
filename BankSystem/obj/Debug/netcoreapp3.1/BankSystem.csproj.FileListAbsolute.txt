@@ -1,0 +1,28 @@
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.exe
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.deps.json
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.json
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.genruntimeconfig.cache
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.AssemblyInfo.cs
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.exe
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.deps.json
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.json
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.runtimeconfig.dev.json
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.dll
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\bin\Debug\netcoreapp3.1\BankSystem.pdb
+C:\Users\Admin\Documents\Zoom University\Spring 2022\32998 dotNET Application Development\Assignment 1\BankSystem\BankSystem\obj\Debug\netcoreapp3.1\BankSystem.genruntimeconfig.cache

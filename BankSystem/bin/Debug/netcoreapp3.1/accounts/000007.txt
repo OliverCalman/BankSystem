@@ -1,0 +1,7 @@
+firstname,Bruce
+surname,Willis
+address,1 Maytree Ln
+phone,0988767343
+email,olliecalman@gmail.com
+balance,0
+Account Created on 14/09/2022 10:05:22 PM, Starting Balance: $0.00

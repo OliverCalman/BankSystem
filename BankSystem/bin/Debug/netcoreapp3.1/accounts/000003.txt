@@ -1,0 +1,7 @@
+firstname,Greg
+surname,Cooke
+address,9 Faraway Way
+phone,51616161
+email,olliecalman@gmail.com
+balance,0
+Account Created on 14/09/2022 5:43:42 PM, Starting Balance: $0.00

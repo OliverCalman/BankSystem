@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.exe
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.deps.json
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.runtimeconfig.json
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.dll
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\net5.0\ref\BankSystem.dll
+C:\Users\Admin\source\repos\BankSystem\BankSystem\bin\Debug\net5.0\BankSystem.pdb
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.dll
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\net5.0\ref\BankSystem.dll
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.pdb
+C:\Users\Admin\source\repos\BankSystem\BankSystem\obj\Debug\net5.0\BankSystem.genruntimeconfig.cache

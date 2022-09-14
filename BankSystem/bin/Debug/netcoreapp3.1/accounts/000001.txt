@@ -1,0 +1,17 @@
+firstname,Oliver
+surname,Calman
+address,87 djdjdksk
+phone,93837982
+email,olliecalman@gmail.com
+balance,910.09
+accountcreated,10/09/2022 7:21:29 PM,0,0
+Deposit on:10/09/2022 8:40:32 PM, Amount Deposited: $980.2, Current Balance: $980.2
+Withdrawal on:10/09/2022 8:41:57 PM, Amount Withdrawn: $200, Current Balance: $780.2
+Withdrawal on:13/09/2022 10:51:49 PM, Amount Withdrawn: $19, Current Balance: $761.2
+Withdrawal on:14/09/2022 2:56:14 PM, Amount Withdrawn: $25, Current Balance: $736.2
+Withdrawal on:14/09/2022 2:56:42 PM, Amount Withdrawn: $736.2, Current Balance: $0
+Deposit on: 14/09/2022 6:15:19 PM, Amount Deposited: $900, Current Balance: $900
+Withdrawal on:14/09/2022 6:15:36 PM, Amount Withdrawn: $900, Current Balance: $0
+Deposit on: 14/09/2022 10:05:47 PM, Amount Deposited: $900.2, Current Balance: $900.2
+Deposit on: 14/09/2022 10:05:55 PM, Amount Deposited: $32, Current Balance: $932.2
+Withdrawal on: 14/09/2022 10:06:03 PM, Amount Withdrawn: $22.11, Current Balance: $910.09
